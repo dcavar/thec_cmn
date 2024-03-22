@@ -1,0 +1,67 @@
+# argument_ellipsis.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu> and Yuchen Yang <yangyuc@iu.edu>
+# language: chn
+# Notes:
+
+我看到了一个男孩，他也看到了___
+----
+我看到了一个男孩，他也看到了男孩。
+# Translation: He saw a boy; I also saw a boy.
+# Alphabet Romanization: Wo kan dao le yige nanhai, ta ye kan dao le nanhai.
+# Kuan Tang. "Nominal Ellipsis in Mandarin" 
+
+张三吃了苹果，李四还是不敢吃___
+----
+张三吃了苹果，李四还是不敢苹果。
+# Translation: Zhang San ate an apple, Li Si still doesn't dare to eat an apple.
+# Alphabet Romanization: Zhang San chi le pingguo, Li Si hai shi bu gan chi pingguo.
+# Kuan Tang. "Nominal Ellipsis in Mandarin" 
+
+他修车的方式比我的___更好。
+----
+他修车的方式比我的修车方式更好。
+# Translation: His way of repairing cars is better than my way of repairing cars.
+# Alphabet Romanization: Ta xiuche de fangshi bi wo de xiuche fangshi geng hao.
+# Tang, Sze-Wing. "A parametric approach to NP ellipsis in Mandarin and Cantonese." Journal of East Asian Linguistics 20 (2011): 107-115.
+
+他不来的原因我知道，但你的___我不知道。
+----
+他不来的原因我知道，但你的原因我不知道。
+# Translation: I know why he didn't come, but I don't know why you didn't come.
+# Alphabet Romanization: Ta bu lai de yuanyin wo zhidao, dan ni de yuanyin wo bu zhidao.
+# Tang, Sze-Wing. "A parametric approach to NP ellipsis in Mandarin and Cantonese." Journal of East Asian Linguistics 20 (2011): 107-115.
+
+说到方法，他修车的方法不怎么，修电脑的___还可以。
+----
+说到方法，他修车的方法不怎么，修电脑的方法还可以。
+# Translation: Speaking of methods, his method of repairing cars is not very good, but his method of repairing computers is okay.
+# Alphabet Romanization: Shuo dao fangfa, ta xiuche de fangfa bu zenme, xiu diannao de fangfa hai keyi.
+# Tang, Sze-Wing. "A parametric approach to NP ellipsis in Mandarin and Cantonese." Journal of East Asian Linguistics 20 (2011): 107-115.
+
+说到原因，他没来的原因合理，但做错事的___不合理。
+----
+说到原因，他没来的原因合理，但做错事的原因不合理。
+# Translation: Speaking of reasons, his reason for not coming is reasonable, but his reason for doing something wrong is unreasonable.
+# Alphabet Romanization: Shuo dao yuanyin, ta mei lai de yuanyin heli, dan zuo cuoshi de yuanyin buheli.
+# Tang, Sze-Wing. "A parametric approach to NP ellipsis in Mandarin and Cantonese." Journal of East Asian Linguistics 20 (2011): 107-115.
+
+张三喜欢李四，但是玛丽不喜欢___
+----
+张三喜欢李四，但是玛丽不喜欢李四。
+# Translation: Zhang San likes Li Si, but Mary doesn't like Li Si.
+# Alphabet Romanization: Zhang San xihuan Li Si, danshi Mary bu xihuan Li Si.
+# Cheng, Hsu-Te Johnny. "Argument ellipsis in Mandarin Chinese." Proceedings of the 23rd North American Conference on Chinese Linguistics (NACCL-23). Vol. 2. 2011.
+
+张三喜欢李四，但是___不喜欢玛丽。
+----
+张三喜欢李四，但是李四不喜欢玛丽。
+# Translation: Zhang San likes Li Si, but Li Si doesn't like Mary.
+# Alphabet Romanization: Zhang San xihuan Li Si, danshi Li Si bu xihuan Mary.
+# Cheng, Hsu-Te Johnny. "Argument ellipsis in Mandarin Chinese." Proceedings of the 23rd North American Conference on Chinese Linguistics (NACCL-23). Vol. 2. 2011.
+
+张三说___喜欢李四。
+----
+张三说张三喜欢李四。
+# Translation: Zhang San said that Zhang San likes Li Si.
+# Alphabet Romanization: Zhang San shuo Zhang San xihuan Li Si.
+# Cheng, Hsu-Te Johnny. "Argument ellipsis in Mandarin Chinese." Proceedings of the 23rd North American Conference on Chinese Linguistics (NACCL-23). Vol. 2. 2011.

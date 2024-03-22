@@ -1,0 +1,81 @@
+# gapping.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu> and Yuchen Yang <yangyuc@iu.edu>
+# language: chn
+# Notes:
+
+这套房子给了小李家，那套房子___小王家。
+----
+这套房子给了小李家，那套房子给了小王家。
+# Translation: This house was given to the Li family, and that house was given to the Wang family.
+# Alphabet Romanization: Zhe tao fangzi geile xiao li jia, na tao fangzi geile xiao wang jia.
+# 王竹, and 张天伟. "基于信息结构理论的现代汉语空缺句研究." 北京科技大学学报 (社会科学版) 35.4 (2019).
+
+我是老大，他___老二。
+----
+我是老大，他是老二。
+# Translation: I am the eldest, he is the second.
+# Alphabet Romanization: Wo shi lao da, ta shi lao er.
+# 王竹, and 张天伟. "基于信息结构理论的现代汉语空缺句研究." 北京科技大学学报 (社会科学版) 35.4 (2019).
+
+这把钥匙开这扇门，那把钥匙___那扇门.
+----
+这把钥匙开这扇门，那把钥匙开那扇门。
+# Translation: This key opens this door, and that key opens that door.
+# Alphabet Romanization: zhe ba yao shi kai zhe shan men ， na ba yao shi kai na shan men.
+# 王竹, and 张天伟. "基于信息结构理论的现代汉语空缺句研究." 北京科技大学学报 (社会科学版) 35.4 (2019).
+
+明天来三个人，后天___四个人.
+----
+明天来三个人，后天来四个人。
+# Translation: Three people will come tomorrow, and four people will come the day after tomorrow.
+# Alphabet Romanization: Ming tian lai san ge ren, hou tian lai si ge ren.
+# 王竹, and 张天伟. "基于信息结构理论的现代汉语空缺句研究." 北京科技大学学报 (社会科学版) 35.4 (2019).
+
+楼上住五个人，楼下___十个人。
+----
+楼上住五个人，楼下住十个人。
+# Translation: Five people live upstairs, and ten people live downstairs.
+# Alphabet Romanization: Lou shang zhu wu ge ren, lou xia zhu shi ge ren.
+# 王竹, and 张天伟. "基于信息结构理论的现代汉语空缺句研究." 北京科技大学学报 (社会科学版) 35.4 (2019).
+
+张三喜欢橘子，李四___苹果。
+----
+张三喜欢橘子，李四喜欢苹果。
+# Translation: Zhang San likes oranges, and Li Si likes apples.
+# Alphabet Romanization: Zhang san xi huan ju zi, li si xi huan ping guo.
+# Ai, Ruixi Ressy. "Topic-comment structure, focus movement, and gapping formation." Linguistic Inquiry 45.1 (2014): 125-145.
+
+张三看见了我，李四也___我。
+----
+张三看见了我，李四也看见了我。
+# Translation: Zhang San saw me, and Li Si also saw me.
+# Alphabet Romanization: Zhang san kan jian le wo, li si ye kan jian le wo.
+# Ai, Ruixi Ressy. "Topic-comment structure, focus movement, and gapping formation." Linguistic Inquiry 45.1 (2014): 125-145.
+
+张三吃了三个苹果，李四___五个橘子。
+----
+张三吃了三个苹果，李四吃了五个橘子。
+# Translation: Zhang San ate three apples, and Li Si ate five oranges.
+# Alphabet Romanization: Zhang san chi le san ge ping guo, li si chi le wu ge ju zi.
+# Ai, Ruixi Ressy. "Topic-comment structure, focus movement, and gapping formation." Linguistic Inquiry 45.1 (2014): 125-145.
+
+张三吃了三个苹果，李四___五个。
+----
+张三吃了三个苹果，李四吃了五个苹果。
+# Translation: Zhang San ate three apples, and Li Si ate five apples.
+# Alphabet Romanization: Zhang san chi le san ge ping guo, li si chi le wu ge ping guo.
+# Ai, Ruixi Ressy. "Topic-comment structure, focus movement, and gapping formation." Linguistic Inquiry 45.1 (2014): 125-145.
+
+张三考进了大学，我当然可以___大学。
+----
+张三考进了大学，我当然可以考进大学。
+# Translation: Zhang San was admitted to college, and of course I can be admitted to college.
+# Alphabet Romanization: Zhang san kao jin le da xue, wo dang ran ke yi kao jin da xue.
+# Ai, Ruixi Ressy. "Topic-comment structure, focus movement, and gapping formation." Linguistic Inquiry 45.1 (2014): 125-145.
+
+我投票给张三，你___李四。
+----
+我投票给张三，你投票给李四。
+# Translation: I voted for Zhang San, and you voted for Li Si.
+# Alphabet Romanization: Wo tou piao gei zhang san, ni tou piao gei li si.
+# Ai, Ruixi Ressy. "Topic-comment structure, focus movement, and gapping formation." Linguistic Inquiry 45.1 (2014): 125-145.

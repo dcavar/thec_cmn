@@ -1,0 +1,144 @@
+# vp_ellipsis.txt
+# (C) 2023 by Damir Cavar <dcavar@iu.edu> and Yuchen Yang <yangyuc@iu.edu>
+# language: chn
+# Notes:
+
+张三很快乐的离开了，李四也___
+----
+张三很快乐的离开了，李四也很快乐的离开了。
+# Translation: Zhangsan left happily, and Lisi also left happily.
+# Alphabet Romanization: zhang san hen kuai le de li kai le ， li si ye hen kuai le de li kai le.
+# Wei, Ting-Chi. "A movement and resumption approach to VP-ellipsis in Mandarin Chinese." 清華學報 40.1 (2010): 113-158.
+
+张三不吃苹果，李四也___
+----
+张三不吃苹果，李四也不吃苹果。
+# Translation: Zhangsan does not eat apples, and Lisi also does not eat apples.
+# Wei, Ting-Chi. "A movement and resumption approach to VP-ellipsis in Mandarin Chinese." 清華學報 40.1 (2010): 113-158.
+
+张三将会很快乐的离开，李四也___
+----
+张三将会很快乐的离开，李四也将会很快乐的离开。
+# Translation: Zhangsan will leave happily, and Lisi will also leave happily.
+# Alphabet Romanization: zhang san jiang hui hen kuai le de li kai ， li si ye jiang hui hen kuai le de li kai.
+# Wei, Ting-Chi. "A movement and resumption approach to VP-ellipsis in Mandarin Chinese." 清華學報 40.1 (2010): 113-158.
+
+张三会去美国，但是李四不___
+----
+张三会去美国，但是李四不会去美国。
+# Translation: Zhangsan will go to the United States, but Lisi will not go to the United States.
+# Alphabet Romanization: zhang san hui qu mei guo ， dan shi li si bu hui qu mei guo.
+# Wei, Ting-Chi. "A movement and resumption approach to VP-ellipsis in Mandarin Chinese." 清華學報 40.1 (2010): 113-158.
+
+张三不会去美国，但是李四却___
+----
+张三不会去美国，但是李四却会去美国。
+# Translation: Zhangsan will not go to the United States, but Lisi will go to the United States.
+# Alphabet Romanization: zhang san bu hui qu mei guo ， dan shi li si que hui qu mei guo.
+# Wei, Ting-Chi. "A movement and resumption approach to VP-ellipsis in Mandarin Chinese." 清華學報 40.1 (2010): 113-158.
+
+
+她走了，你注意到___没有？
+----
+她走了，你注意到她走了没有？
+# Translation: She left, did you notice that she left?
+# Alphabet Romanization: ta zou le ， ni zhu yi dao ta zou le mei you？
+
+张三看见了他的妈妈，李四也___
+----
+张三看见了他的妈妈，李四也看见了他的妈妈。
+# Translation: Zhangsan saw his mother, and Lisi also saw his mother.
+# Alphabet Romanization: zhang san kan jian le ta de ma ma ， li si ye kan jian le ta de ma ma.
+# Pan, Haihua. "Null object constructions, VP-ellipsis, and sentence interpretation." Interfaces in grammar (2019): 283-299.
+
+张三看见了他的妈妈，玛丽知道李四也___
+----
+张三看见了他的妈妈，玛丽知道李四也看见了他的妈妈。
+# Translation: Zhangsan saw his mother, and Mary knew that Lisi also saw his mother.
+# Alphabet Romanization: zhang san kan jian le ta de ma ma ， ma li zhi dao li si ye kan jian le ta de ma ma.
+# Pan, Haihua. "Null object constructions, VP-ellipsis, and sentence interpretation." Interfaces in grammar (2019): 283-299.
+
+张三批评了他自己，李四也___
+----
+张三批评了他自己，李四也批评了他自己。
+# Translation: Zhangsan criticized himself, and Lisi also criticized himself.
+# Alphabet Romanization: zhang san pi ping le ta zi ji ， li si ye pi ping le ta zi ji.
+# Pan, Haihua. "Null object constructions, VP-ellipsis, and sentence interpretation." Interfaces in grammar (2019): 283-299.
+
+每对中国的夫妇都推荐了彼此的朋友，德国夫妇也___
+----
+每对中国的夫妇都推荐了彼此的朋友，德国夫妇也推荐了彼此的朋友。
+# Translation: Every Chinese couple recommended each other's friends, and the German couple also recommended each other's friends.
+# Alphabet Romanization: mei dui zhong guo de fu fu dou tui jian le bi ci de peng you ， de guo fu fu ye tui jian le bi ci de peng you.
+# Pan, Haihua. "Null object constructions, VP-ellipsis, and sentence interpretation." Interfaces in grammar (2019): 283-299.
+
+每对中国夫妇知道彼此的缺点，每对德国夫妇也___
+----
+每对中国夫妇知道彼此的缺点，每对德国夫妇也知道彼此的缺点。
+# Translation: Every Chinese couple knows each other's shortcomings, and every German couple also knows each other's shortcomings.
+# Alphabet Romanization: mei dui zhong guo fu fu zhi dao bi ci de que dian ， mei dui de guo fu fu ye zhi dao bi ci de que dian.
+# Pan, Haihua. "Null object constructions, VP-ellipsis, and sentence interpretation." Interfaces in grammar (2019): 283-299.
+
+张三惩罚了自己的学生，李四也___
+----
+张三惩罚了自己的学生，李四也惩罚了自己的学生。
+# Translation: Zhangsan punished his students, and Lisi also punished his students.
+# Alphabet Romanization: zhang san cheng fa le zi ji de xue sheng ， li si ye cheng fa le zi ji de xue sheng.
+# Pan, Haihua. "Null object constructions, VP-ellipsis, and sentence interpretation." Interfaces in grammar (2019): 283-299.
+
+张三会推荐自己的学生，李四也___
+----
+张三会推荐自己的学生，李四也会推荐自己的学生。
+# Translation: Zhangsan will recommend his students, and Lisi will also recommend his students.
+# Alphabet Romanization: zhang san hui tui jian zi ji de xue sheng ， li si ye hui tui jian zi ji de xue sheng.
+# Pan, Haihua. "Null object constructions, VP-ellipsis, and sentence interpretation." Interfaces in grammar (2019): 283-299.
+
+张三认为李四伪造了自己的分数，王五也___
+----
+张三认为李四伪造了自己的分数，王五也认为李四伪造了自己的分数。
+# Translation: Zhangsan thinks that Lisi forged his own score, and Wang Wu also thinks that Lisi forged his own score.
+# Alphabet Romanization: zhang san ren wei li si wei zao le zi ji de fen shu ， wang wu ye ren wei li si wei zao le zi ji de fen shu.
+# Pan, Haihua. "Null object constructions, VP-ellipsis, and sentence interpretation." Interfaces in grammar (2019): 283-299.
+
+张三从来没有看见过一个金发小孩，而李四看见过___，李四说___很漂亮
+----
+张三从来没有看见过一个金发小孩，而李四看见过金发小孩，李四说金发小孩很漂亮
+# Translation: Zhang San has never seen a blond child, but Li Si has seen a blond child, Li Si said the blond child is very beautiful.
+# Alphabet Romanization: Zhang San cong lai meiyou kanjian guo yige jinfa xiaohai, er Li Si kanjian guo jinfa xiaohai, Li Si shuo jinfa xiaohai hen piaoliang
+# Liejiong, Xu. "Remarks on VP-ellipsis in disguise." Linguistic Inquiry 34.1 (2003): 163-171.
+
+张三打了他的孩子，李四也___
+----
+张三打了他的孩子，李四也打了他的孩子。
+# Translation: Zhangsan hit his child, and Lisi also hit his child.
+# Alphabet Romanization: zhang san da le ta de hai zi ， li si ye da le ta de hai zi.
+# Liejiong, Xu. "Remarks on VP-ellipsis in disguise." Linguistic Inquiry 34.1 (2003): 163-171.
+
+张三先打了他的孩子，然后李四也___
+----
+张三先打了他的孩子，然后李四也打了他的孩子。
+# Translation: Zhangsan hit his child first, and then Lisi also hit his child.
+# Alphabet Romanization: zhang san xian da le ta de hai zi ， ran hou li si ye da le ta de hai zi.
+# Liejiong, Xu. "Remarks on VP-ellipsis in disguise." Linguistic Inquiry 34.1 (2003): 163-171.
+
+王先生剃了她的头发和胡子，李先生也___
+----
+王先生剃了她的头发和胡子，李先生也剃了他的头发和胡子。
+# Translation: Mr. Wang shaved her hair and beard, and Mr. Li also shaved his hair and beard.
+# Alphabet Romanization: wang xian sheng ti le ta de tou fa he hu zi ， li xian sheng ye ti le ta de tou fa he hu zi.
+# Liejiong, Xu. "Remarks on VP-ellipsis in disguise." Linguistic Inquiry 34.1 (2003): 163-171.
+
+旧政策繁荣了金融市场，新政策也___
+----
+旧政策繁荣了金融市场，新政策也繁荣了金融市场。
+# Translation: The old policy has prospered the financial market, and the new policy has also prospered the financial market.
+# Alphabet Romanization: jiu zheng ce fan rong le jin rong shi chang ， xin zheng ce ye fan rong le jin rong shi chang.
+# Liejiong, Xu. "Remarks on VP-ellipsis in disguise." Linguistic Inquiry 34.1 (2003): 163-171.
+
+他的话温暖了我的心，你的话也___
+----
+他的话温暖了我的心，你的话也温暖了我的心。
+# Translation: His words warmed my heart, and your words also warmed my heart.
+# Alphabet Romanization: ta de hua wen nuan le wo de xin ， ni de hua ye wen nuan le wo de xin.
+# Liejiong, Xu. "Remarks on VP-ellipsis in disguise." Linguistic Inquiry 34.1 (2003): 163-171.
+
