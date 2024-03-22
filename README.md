@@ -1,4 +1,4 @@
-# The Hoosier Ellipsis Corpus (THEC) - Mandarin Chinese Sub-corpus (thec_deu)
+# The Hoosier Ellipsis Corpus (THEC) - Mandarin Chinese Sub-corpus (thec_cmn)
 
 (C) 2024 [NLP-Lab]
 
